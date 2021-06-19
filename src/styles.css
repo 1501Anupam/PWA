@@ -1,0 +1,16 @@
+body, html {
+    height: calc(100% - 4em);
+}
+
+body {
+    background-color: brown;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat';
+    display: grid;
+    align-items: center;
+    padding: 2em;
+    font-size: 3em;
+
+}
+
